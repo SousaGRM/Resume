@@ -1,0 +1,73 @@
+---
+name: Gleiciano
+surname: Sousa
+position: Analista de Dados
+address: João Pessoa, PB, Brasil
+phone: +55 83 99652 4411
+www: www.gleiciano.dev
+email: gleiciano20@gmail.com
+#twitter: sousagrm
+github: sousagrm
+linkedin: sousagrm
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: 414141
+output: 
+  vitae::awesomecv:
+    page_total: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(vitae)
+```
+
+
+# Resumo
+
+Psicólogo e Mestre em Neurociência em transição de carreira na área de **Análise de Dados**. Experiência em coleta, limpeza, análise e visualização de dados durante a graduação e a pós-graduação, onde avaliou modelos estatísticos e dados referentes aos efeitos de um tratamento inovador em pacientes psiquiátricos. Outras habilidades técnicas importantes para a área, como R, SQL, Tableau e Excel foram adquiridas durante o tecnólogo, a certificação profissional do Google e os cursos livres. 
+
+# Formação Acadêmica
+
+[**Universidade Federal da Paraíba**]{style="font-size:1em;"}\
+Doutorando em Neurociência Cognitiva e Comportamento \hfill _em andamento_  
+Mestrado em Neurociência Cognitiva e Comportamento \hfill _2020_  
+Bacharelado em Psicologia \hfill _2019_  
+
+[**Centro Universitário Anhaguera Ampli**]{style="font-size:1em;"}\
+Tecnólogo em Arquitetura de Dados \hfill _em andamento_
+
+[**Google/Coursera**]{style="font-size:1em;"}\
+Certificação Profissional em Análise de Dados \hfill _2022_
+
+# Experiência
+
+[**Pesquisador e Coordenador de Projeto**]{style="font-size:1em;"}\ \hfill _2019 - Presente_  
+Coleta, limpeza, análise e visualização de dados em ensaios clínicos;  
+Elaboração de relatórios e artigos científicos;  
+Comunicação de resultados.
+
+# Cursos Livres
+
+**Excel Skills for Data Analytics and Visualization** - [Macquarie University/Coursera]{style="font-size:1em;"} \hfill _em andamento_
+
+**Learn SQL Basics for Data Science** - [University of California/Coursera]{style="font-size:1em;"} \hfill _em andamento_
+
+**Data Visualization with Tableau** - [University of California/Coursera]{style="font-size:1em;"} \hfill _em andamento_
+
+**Python for Everybody** - [University of Michigan/Coursera]{style="font-size:1em;"} \hfill _em andamento_
+
+# Habilidades e Competências
+
+**Habilidades**: Análise de Dados, Limpeza de Dados, Visualização de Dados, Comunicação, Escrita, Atenção a Detalhes, Reconhecimento de Padrões, Resolução de Problemas, Storytelling, Design Thinking, Vontade de Aprender  
+**Linguagens**: R, SQL  
+**Softwares**: Excel, Tableau  
+**Idiomas**: Português Nativo, Inglês Intermediário, Espanhol Básico
+
+# Portfólio
+
+www.gleiciano.dev
+
+# Publicações
+**Sousa, G. R. M.**, Galdino, M. K. C., Machado, S., Vieira, E. C. C., & Rufino, J. F. (2021). Reduction of social anxiety symptoms with transcranial direct current stimulation: A case report. *Brain Stimulation*, 14(3), 728–729. https://doi.org/10.1016/j.brs.2021.04.011
