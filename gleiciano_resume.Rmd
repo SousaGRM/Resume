@@ -35,7 +35,7 @@ Doutorando em Neurociência Cognitiva e Comportamento \hfill _em andamento_
 Mestrado em Neurociência Cognitiva e Comportamento \hfill _2020_  
 Bacharelado em Psicologia \hfill _2019_  
 
-[**Centro Universitário Anhaguera Ampli**]{style="font-size:1em;"}\
+[**Centro Universitário Anhanguera Ampli**]{style="font-size:1em;"}\
 Tecnólogo em Arquitetura de Dados \hfill _em andamento_
 
 [**Google/Coursera**]{style="font-size:1em;"}\
