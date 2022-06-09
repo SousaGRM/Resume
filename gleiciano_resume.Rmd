@@ -41,12 +41,12 @@ Tecnólogo em Arquitetura de Dados \hfill _em andamento_
 [**Google/Coursera**]{style="font-size:1em;"}\
 Certificação Profissional em Análise de Dados \hfill _2022_
 
-# Experiência
+<!-- # Experiência -->
 
-[**Pesquisador e Coordenador de Projeto**]{style="font-size:1em;"}\ \hfill _2019 - Presente_  
-Coleta, limpeza, análise e visualização de dados em ensaios clínicos;  
-Elaboração de relatórios e artigos científicos;  
-Comunicação de resultados.
+<!-- [**Pesquisador**]{style="font-size:1em;"}\ \hfill _2019 - Presente_   -->
+<!-- Coleta, limpeza, análise e visualização de dados em ensaios clínicos;   -->
+<!-- Elaboração de relatórios e artigos científicos;   -->
+<!-- Comunicação de resultados. -->
 
 # Cursos Livres
 
@@ -60,8 +60,8 @@ Comunicação de resultados.
 
 # Habilidades e Competências
 
-**Habilidades**: Análise de Dados, Limpeza de Dados, Visualização de Dados, Comunicação, Escrita, Atenção a Detalhes, Reconhecimento de Padrões, Resolução de Problemas, Storytelling, Design Thinking, Vontade de Aprender  
-**Linguagens**: R, SQL  
+**Habilidades**: Modelagem de Dados, Análise de Dados, Limpeza de Dados, Visualização de Dados, Comunicação, Escrita, Atenção a Detalhes, Reconhecimento de Padrões, Resolução de Problemas, Storytelling, Design Thinking, Vontade de Aprender  
+**Linguagens**: R, SQL, UML  
 **Softwares**: Excel, Tableau  
 **Idiomas**: Português Nativo, Inglês Intermediário, Espanhol Básico
 
